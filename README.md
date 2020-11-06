@@ -1,6 +1,8 @@
 # ezskin-notifier
 
 [輕鬆美膚](https://www.ezskin.com.tw)門診餘額通知。
+> 因為官網改版，所以目前程式是跑不起來的。
+
 
 > 初診預約前請先閱讀 [靠腰懶人包大集合](https://www.facebook.com/notes/%E8%BC%95%E9%AC%86%E7%BE%8E%E8%86%9A/%E9%99%B3%E7%9A%AE%E9%9A%94%E9%9B%B7%E9%9D%A0%E8%85%B0%E6%87%B6%E4%BA%BA%E5%8C%85%E5%A4%A7%E9%9B%86%E5%90%88/1542506099094333/)
 
